@@ -43,10 +43,11 @@ Where:
 ---
 
 ## Tabulation
-<img width="1280" height="661" alt="image" src="https://github.com/user-attachments/assets/447d7e39-e4fa-4b53-9aa9-af4fbd2ef74a" />
+<img width="802" height="1280" alt="image" src="https://github.com/user-attachments/assets/eb057e8d-cba4-4cd3-91e2-d14bb827cea9" />
 
 ## Output
-<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/c8ae36dd-e616-4d24-8dd6-334f1092e0dd" />
+<img width="1080" height="1056" alt="image" src="https://github.com/user-attachments/assets/e874d274-c9bf-4626-b814-8489289015df" />
+
 
 ## Result
 Thus, the phase modulator (PM) signal was successfully generated with SCILAB.
